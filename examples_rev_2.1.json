@@ -1,0 +1,23 @@
+[
+    [
+        {
+            "role": "user",
+            "content": "Passagem: \"O cirurgião faz uma incisão no quadril, remove a articulação do quadril danificada e a substitui por uma articulação artificial que é uma liga metálica ou, em alguns casos, cerâmica. A cirurgia geralmente leva cerca de 60 a 90 minutos para ser concluída.\"\nPergunta: \"de que metal são feitas as próteses de quadril?\""
+        },
+        {  
+            "role": "assistant",
+            "content": "{\"Razão\":\"Passagem contém informação que não responde a pergunta, apenas indicando que a prótese pode ser de uma liga metálica, sem listar quais metais; de qualquer forma, o assunto está relacionado com a pergunta.\",\"Pontuação\":1}"
+        }
+    ],
+
+    [
+        {
+            "role": "user",
+            "content": "Passagem: \"O Brasil possui muitas belezas naturais. Neste artigo vamos indicar os melhores lugares para passear no Brasil.\"\nPergunta: \"Onde passear no Brasil?\""
+        },
+        {
+            "role": "assistant",
+            "content": "{\"Razão\":\"A passagem apenas indica que o Brasil tem muitas belezas naturais, mas não lista nenhum exemplo. Embora a passagem indique que artigo vai falar sobre lugares para passear no Brasil, tema da pergunta, o trecho apresentado não lista nenhum lugar específico para passear no Brasil\",\"Pontuação\":0}"
+        }
+    ]
+]
