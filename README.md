@@ -6,7 +6,7 @@ Quati dataset is currently released in two versions: one with 1 million passages
 
 Quati is publicly release in Hugging Face Hub, and can be found [here](https://huggingface.co/datasets/unicamp-dl/quati).
 
-This repository contains the main scripts used to annotate the query-passages released for Brazilian Portuguese (pt-br) IR systems evaluation. Check [our publication](https://arxiv.org/abs/2404.06976) for further details about the dataset.
+This repository contains the main scripts used to annotate the query-passages released for Brazilian Portuguese (pt-br) IR systems evaluation. Check [our publication](https://arxiv.org/abs/2404.06976) for further details about the dataset. This work was selected for presentation at the [15th Symposium in Information and Human Language Technology (STIL)](https://bracis.sbc.org.br/2024/15th-symposium-in-information-and-human-language-technology/); here is a [Supplementary Material](Quati_Supplementary_Material.pdf) for the accepted paper version.
 
 
 ## Files description
